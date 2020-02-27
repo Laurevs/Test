@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+You can find the code of the project here. 
+
 - Bulleted
 - List
 
